@@ -88,7 +88,7 @@ data/obj80/image087.jpg
 data/obj80/image088.jpg
 data/obj80/image089.jpg
 data/obj80/image090.jpg
-data/obj80/image091.jpg
+data/obj80/image091.JPG
 data/obj80/image092.jpg
 data/obj80/image093.jpg
 data/obj80/image094.jpg
@@ -97,7 +97,7 @@ data/obj80/image096.jpg
 data/obj80/image097.jpg
 data/obj80/image098.jpg
 data/obj80/image099.jpg
-data/obj80/image100.jpg
+data/obj80/image100.JPG
 data/obj80/image101.jpg
 data/obj80/image102.jpg
 data/obj80/image103.jpg
