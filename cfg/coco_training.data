@@ -2,7 +2,7 @@ classes= 80
 train  = data/obj/train.txt
 valid  = data/test.txt
 #valid = data/coco_val_5k.list
-names = data/coco.names
+names = cfg/coco_military_ship.names
 backup = backup/
 #eval=coco
 
