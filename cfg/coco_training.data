@@ -1,5 +1,5 @@
 classes= 80
-train  = data/obj1/train.txt
+train  = data/obj80/train.txt
 valid  = data/test.txt
 #valid = data/coco_val_5k.list
 names = cfg/coco_military_ship.names
